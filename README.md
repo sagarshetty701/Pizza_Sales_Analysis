@@ -11,7 +11,3 @@ The dataset was first explored and analyzed using advanced SQL queries including
 * Examine monthly and seasonal sales trends to understand demand patterns.
 * Compare sales performance across pizza sizes and categories to detect business opportunities.
 * Generate data-driven insights using SQL and present them through interactive Power BI dashboards.
-
-
-
-
